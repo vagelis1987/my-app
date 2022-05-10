@@ -5,7 +5,7 @@ const Home = () =>{
   
   
   const { data, isLoading, errorMessage } = useOpenWeather({
-    key: 'bbed0c494fb17d6dea5a21fe6f116843',
+    key: 'your key',
     lat: '37.98478',
     lon: '23.74862',
     lang: 'en',
